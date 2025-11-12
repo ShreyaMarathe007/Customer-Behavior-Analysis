@@ -18,20 +18,22 @@ Further insights were drawn through Exploratory Data Analysis (EDA), and an inte
 ---
 
 ## 🧾 Project Files
-Folder/File	Description
-notebooks/	Contains EDA and data cleaning notebooks
-sql/	SQL queries for database analysis
-scripts/	Python script for SQL connection
-Power BI/	Power BI dashboard and report files
-README.md	Project overview and documentation
+
+| Folder | File	Description | 
+|-----------|---------------|
+| notebooks | Contains EDA and data cleaning notebooks |
+| sql | SQL | queries for database analysis |
+| scripts |	Python script for SQL connection | 
+| Power BI |	Power BI dashboard and report files |
+| README.md	|Project overview and documentation |
 
 ---
 
 ## 🪄 Tools & Technologies
-Python → Data cleaning, preprocessing, and EDA
-MySQL → Data storage and querying
-Power BI → Data visualization and dashboard creation
-Pandas, Matplotlib, Seaborn → Data manipulation and visualization
+- Python → Data cleaning, preprocessing, and EDA
+- MySQL → Data storage and querying
+- Power BI → Data visualization and dashboard creation
+- Pandas, Matplotlib, Seaborn → Data manipulation and visualization
 
 ---
 
@@ -45,7 +47,7 @@ Pandas, Matplotlib, Seaborn → Data manipulation and visualization
 - **Subscribed users** have **higher loyalty (18.03 vs 15.49)** compared to non-subscribers.  
 - Spending pattern is similar (~$60), indicating loyalty is influenced by engagement, not cost.
 
----
+
 
 ### 👗 Category Performance
 | Category | Total Orders | Total Sales ($) |
@@ -59,14 +61,14 @@ Pandas, Matplotlib, Seaborn → Data manipulation and visualization
 - **Highest-rated category:** Footwear ⭐  
 - **Most popular items:** Top, Pants, Jewelry, Shirt, Dress  
 
----
+
 
 ### 🎨 Product & Color Preferences
 - **Top 5 preferred colors:** Olive, Yellow, Silver, Teal, Green  
 - **Clothing favorite:** Teal  
 - **Seasonal purchase trend:** Fall → Spring → Winter → Summer (highest to lowest)
 
----
+
 
 ### 💰 Financial Insights
 - **Average purchase amount:** ≈ $60 per customer  
@@ -74,7 +76,7 @@ Pandas, Matplotlib, Seaborn → Data manipulation and visualization
 - **Discounted purchases** don’t increase spending — customers buy similarly even without discounts.  
 - **Digital payments dominate (83%)**, with **PayPal and Credit Card** as top methods.
 
----
+
 
 ### 🌍 Regional Insights
 - **Top 5 high-performing locations:** Montana, Illinois, California, Idaho, Nevada  
@@ -103,4 +105,5 @@ Pandas, Matplotlib, Seaborn → Data manipulation and visualization
 ## 💫 Author
 **Shreya Marathe**  
 Passionate about turning raw data into beautiful insights ✨  
+
 
